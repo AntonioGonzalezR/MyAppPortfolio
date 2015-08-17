@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My App Portfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">My Nanodegree Apps!</string>
+
+    <string name="button_app1_text">Spotify Streamer</string>
+    <string name="button_app2_text">Scores App</string>
+    <string name="button_app3_text">Library App</string>
+    <string name="button_app4_text">Build it bigger</string>
+    <string name="button_app5_text">XYZ Reader</string>
+    <string name="button_app6_text">CAPSTONE: My own app</string>
+
+
+    <string name="toast_sporify_streamer">This button will show my spotify streamer!</string>
+    <string name="toast_scores_app">This button will show my scores app!</string>
+    <string name="toast_library_app">This button will show my library app!</string>
+    <string name="toast_built_it_bigger_app">This button will show my built it bigger!</string>
+    <string name="toast_reader_app">This button will show my xyz reader app!</string>
+    <string name="toast_capstone_app">This button will show my capstone app!</string>
+    <string name="toast_default">My portfolio app!</string>
+
+
+</resources>

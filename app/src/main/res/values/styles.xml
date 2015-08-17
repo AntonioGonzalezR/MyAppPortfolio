@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="button_style">
+        <item name="android:paddingRight">@dimen/button_horizontal_margin</item>
+        <item name="android:paddingLeft">@dimen/button_horizontal_margin</item>
+        <item name="android:paddingTop">@dimen/button_vertical_margin</item>
+        <item name="android:paddingBottom">@dimen/button_vertical_margin</item>
+        <item name="android:layout_marginBottom">@dimen/button_bottom_margin</item>
+        <item name="android:background">@color/orange_udacity</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="button_style_red" parent="button_style">
+        <item name="android:background">@color/red</item>
+    </style>
+</resources>
